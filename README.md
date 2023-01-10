@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# BenchENAS_PaddlePaddle
-BenchENAS is a platform to help researchers conduct fair comparisons upon Evolutionary algorithm based Neural Architecture Search (ENAS) algorithms.
-=======
-<<<<<<< HEAD
-# BenchENAS_PaddlePaddle
-BenchENAS is a platform to help researchers conduct fair comparisons upon Evolutionary algorithm based Neural Architecture Search (ENAS) algorithms.
-=======
 <p align="center">
  <img width="100%" src="https://github.com/benchenas/BenchENAS/blob/master/attach/logo.PNG"/>
 </p>
@@ -16,6 +8,9 @@ BenchENAS is a platform to help researchers conduct fair comparisons upon Evolut
   </a>
    <a href="https://pypi.org/project/benchENAS/1.1.1/">
     <img src="https://img.shields.io/pypi/v/benchENAS?color=blue&label=pypi" alt="CircleCI" />
+  </a>
+    <a href="https://github.com/benchenas/BenchENAS/actions">
+    <img src="https://github.com/benchenas/BenchENA/workflows/CI/badge.svg" alt="Coverage" />
   </a>
     <a href="https://benchenas.com/api/index.html">
     <img src="https://img.shields.io/website/http/benchenas.com/api/index.html.svg?down_color=red&down_message=offline&up_message=online" />
@@ -65,5 +60,3 @@ $ python main.py
 ```
 $ python init_compute.py
 ```
->>>>>>> 1476ab3 (paddlepaddle version)
->>>>>>> 7bc94df (paddlepaddle version)
